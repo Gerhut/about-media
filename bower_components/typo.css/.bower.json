@@ -1,0 +1,14 @@
+{
+  "name": "typo.css",
+  "homepage": "https://github.com/sofish/typo.css",
+  "_release": "40b78e7a70",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "40b78e7a70b1716dbea5db61b3dc83a9e73f107e"
+  },
+  "_source": "git://github.com/sofish/typo.css.git",
+  "_target": "*",
+  "_originalSource": "typo.css",
+  "_direct": true
+}
